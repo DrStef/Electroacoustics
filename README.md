@@ -17,10 +17,9 @@ in the Thiele-Small model, the speaker is assumed to be a one degree of freedom 
 The equivalent circuit is a RLC. In the impedance models: an inductance (L ~speaker cone/diaphragm mass), a capacitor C (1/C ~ speaker suspension stiffness) and a resistor (R ~damping). <br>
 TS Parameters are determined through the analysis of the speaker impedance around its first resonant frequency $f_0$. </ul>
 
-| Model           |  Simulation | 
+| <p align="center"> <img src="TS_ComplianceBox.png" width="200"  /> </p> | <p align="center"> <img src="TS_Impedance.png" width="350"  /> </p> |
 | ---             | ---         | 
-| <p align="center"> <img src="TS_ComplianceBox.png" width="200"  /> </p> | <p align="center"> <img src="Peerless_PR_SPL_Sim.png" width="350"  /> </p> |
-| <p align="center"> Speaker and 4-cc compliance box  </p>  |  <p align="center"> Frequency response (SPL)  </p>  |
+| <p align="center"> Speaker and 4-cc compliance box  </p>  |  <p align="center"> Speaker Impedance: free-air, box.  </p>  |
 
 
 
