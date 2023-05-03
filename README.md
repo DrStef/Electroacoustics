@@ -26,9 +26,9 @@ TS Parameters are determined through the analysis of the speaker impedance aroun
 | <p align="center"><b> Model </b></p>            | <p align="center"><b> Simulation </b></p>  | 
 | :--- | :--- | 
 | <p align="center"> <img src="BassReflexBox.png" width="200"  /> </p> | <p align="center"> <img src="Speaker11x15mmBR050_sim.png" width="350"  /> </p> |
-|  <p align="center"> Bass reflex enclosure </p>  |     <p align="center"> Frequency response  </p>            |
+|  <p align="center"> Bass reflex enclosure </p>  |     <p align="center"> Frequency response (SPL)   </p>            |
 | <p align="center"> <img src="6thOrderBox.png" width="200"  /> </p>  |   <p align="center"> <img src="Speaker11x15mmBandPass050_sim.png" width="350"  /> </p>    |
-|  <p align="center"> Subwoofer - 6th Order Box </p> |  <p align="center"> Frequency response  </p>       |
+|  <p align="center"> Subwoofer - 6th Order Box </p> |  <p align="center"> Frequency response (SPL)   </p>       |
 
 </ul>
 
@@ -38,15 +38,12 @@ TS Parameters are determined through the analysis of the speaker impedance aroun
 
 <ul> Tymphany Peerless 2" speaker and 4" passive radiator in a 500cc enclosure.   </ul>
 
-
 <ul>
  
-| Model           | Frequency response | 
-| --- | --- | 
-|                       |                    |
-| Bass reflex enclosure |                     |
-|            |     |
-| "Subwoofer" |         |
+| Model           |  Simulation | 
+| ---             | ---         | 
+|  <p align="center"> <img src="PassiveRadiatorBox.png" width="200"  /> </p>   | <p align="center"> <img src="Peerless_PR_SPL_Sim.png" width="200"  /> </p> |
+| Passive Radiator |   Frequency response (SPL)  |
 
 </ul>
 
