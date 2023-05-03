@@ -11,10 +11,6 @@ We coded them "as is" in Python.
 ### <ul> [Extraction of Thiele-Small parameters](https://github.com/DrStef/Electroacoustics/blob/main/Aspects_of_Electro-Acoustics-TS_Parameters_NXP_Grace_v1.ipynb) </ul>
 
 
-
-
-
-
 <ul> Miniature speaker NXP Grace. <br> We measure Thiele-Small parameters and compare with manufacturer's data. </ul>
 
 <ul> "Thiele-Small parameters" refers to a set of electromechanical parameters defining how a speaker driver performs:
@@ -45,7 +41,7 @@ TS Parameters are determined through the analysis of the speaker impedance aroun
 
 
 
-### <ul> [Passive Radiator - Validation with WinISD] (https://github.com/DrStef/Electroacoustics/blob/main/Aspects_of_Electro-Acoustics_SpeakerSimulation_PassiveRadiator_v003.ipynb)</ul>
+### <ul> [Passive Radiator - Validation with WinISD](https://github.com/DrStef/Electroacoustics/blob/main/Aspects_of_Electro-Acoustics_SpeakerSimulation_PassiveRadiator_v003.ipynb)</ul>
 
 <ul> Tymphany Peerless 2" speaker and 4" passive radiator in a 500cc enclosure. </ul>
 
