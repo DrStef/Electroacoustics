@@ -45,9 +45,9 @@ TS Parameters are determined through the analysis of the speaker impedance aroun
 
 
 
-### <ul> Passive Radiator - Validation with WinISD </ul>
+### <ul> [Passive Radiator - Validation with WinISD] (https://github.com/DrStef/Electroacoustics/blob/main/Aspects_of_Electro-Acoustics_SpeakerSimulation_PassiveRadiator_v003.ipynb)</ul>
 
-<ul> Tymphany Peerless 2" speaker and 4" passive radiator in a 500cc enclosure.   </ul>
+<ul> Tymphany Peerless 2" speaker and 4" passive radiator in a 500cc enclosure. </ul>
 
 <ul>
  
