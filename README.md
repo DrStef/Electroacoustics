@@ -28,7 +28,7 @@ TS Parameters are determined through the analysis of the speaker impedance aroun
 
 
 
-### <ul> [Ported enclosures with NXP 11x15mm miniature speaker](https://github.com/DrStef/Electroacoustics/blob/main/Aspects_of_Electro-Acoustics_SpeakerSimulation_v4.ipynb) </ul>
+### <ul>[Ported enclosures with NXP 11x15mm miniature speaker](https://github.com/DrStef/Electroacoustics/blob/main/Aspects_of_Electro-Acoustics_SpeakerSimulation_v4.ipynb)</ul>
 
 <ul> Miniature speaker in a 7-cc ported enclosure and acoustic bandpass filter.  </ul>  
 
