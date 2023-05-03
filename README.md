@@ -42,7 +42,7 @@ TS Parameters are determined through the analysis of the speaker impedance aroun
  
 | Model           |  Simulation | 
 | ---             | ---         | 
-|  <p align="center"> <img src="PassiveRadiatorBox.png" width="200"  /> </p>   | <p align="center"> <img src="Peerless_PR_SPL_Sim.png" width="200"  /> </p> |
+|  <p align="center"> <img src="PassiveRadiatorBox.png" width="200"  /> </p>   | <p align="center"> <img src="Peerless_PR_SPL_Sim.png" width="350"  /> </p> |
 | Passive Radiator |   Frequency response (SPL)  |
 
 </ul>
