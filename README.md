@@ -8,7 +8,12 @@ Initially all codes were Matlab or open source Scilab scripts. <br>
 We coded them "as is" in Python.  
 
 
-### <ul> Extraction of Thiele-Small parameters </ul>
+### <ul> [Extraction of Thiele-Small parameters](https://github.com/DrStef/Electroacoustics/blob/main/Aspects_of_Electro-Acoustics-TS_Parameters_NXP_Grace_v1.ipynb) </ul>
+
+
+
+
+
 
 <ul> Miniature speaker NXP Grace. <br> We measure Thiele-Small parameters and compare with manufacturer's data. </ul>
 
